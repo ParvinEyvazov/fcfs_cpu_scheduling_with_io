@@ -21,3 +21,13 @@ First 2 arraylist which hold 0s are RETURN_TIME, PROCESS_OVER (boolean(0/1)).  T
 
 
 ## How It Works?
+
+Let`s try it in bash.
+Compile it.
+```bash
+javac main.java
+```
+Make sure to give the path correctly.
+```bash
+java main jobs.txt
+```
