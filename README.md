@@ -18,3 +18,6 @@ It is 1st process and has 4 tuples. We firstly hold them like this:
 [[0],[0],[45,15,0],[16,20,0],[80,10,0],[40,-1,0]]
 ```
 First 2 arraylist which hold 0s are RETURN_TIME, PROCESS_OVER (boolean(0/1)).  This extra 0 in tuple arraylists –are for checking the each tuple that this tuple is completed before or not. I can also push the tuples when program used them ,but I didn`t want to delete anything after using. Because of that I have to use this “0” parameter. When program use this tuple or when this tuple is over, 0 turns to 1. Because of that when we check , we can understant that whose turn is this.
+
+
+## How It Works?
