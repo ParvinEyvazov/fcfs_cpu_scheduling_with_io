@@ -32,6 +32,7 @@ Make sure to give the path correctly.
 java main jobs.txt
 ```
 This a "jobs.txt" file
+
 ![](images/jobs.png)
 
 
