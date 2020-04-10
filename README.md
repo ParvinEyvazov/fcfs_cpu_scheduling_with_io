@@ -27,13 +27,20 @@ Compile it.
 ```bash
 javac main.java
 ```
+
+This a "jobs.txt" file
+
+![](images/jobs.png)
+
 Make sure to give the path correctly.
 ```bash
 java main jobs.txt
 ```
-This a "jobs.txt" file
 
-![](images/jobs.png)
+This is the result 
+
+![](images/result.png)
+
 
 
 
